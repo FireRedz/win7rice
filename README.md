@@ -1,4 +1,4 @@
-<h1>just a fork of original version incase the original got deleted
+<h1>just a fork of original version incase the original got deleted</h1>
 
 https://fireredz.github.io/win7rice/
 
